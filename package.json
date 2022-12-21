@@ -1,0 +1,9 @@
+{
+  "name": "boxes.js",
+  "version": "0.9.0",
+  "description": "Boxes generator for laser cutters",
+  "main": "js/index.js",
+  "repository": "https://github.com/melka/boxes.git",
+  "author": "Florian Festi",
+  "license": "GNU General Public License v3 or later (GPLv3+)"
+}
